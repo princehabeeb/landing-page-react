@@ -1,0 +1,31 @@
+.hero{
+    width: 100%;
+    height: calc(100vh - 60px);
+    display: flex;
+    justify-content: space-between;
+}
+
+.hero div{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    flex-direction: column;
+    padding: 10px;
+}
+
+.home-img img{
+    width: 100%;
+    height: 100%;
+}
+
+
+.home-text h1{
+    font-size: 3rem;
+}
+
+.home-text p{
+    font-size: 1.2rem;
+}
+
+
