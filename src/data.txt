@@ -1,0 +1,80 @@
+<img src={IMG1} />
+      <h1>Williamson</h1>
+      <p>Web Developer</p>
+      <div className='social-icons'>
+        <div>
+        <CiFacebook />
+        </div>
+        <div>
+          <AiFillTwitterCircle />
+        </div>
+        <div>
+          <BiLogoGooglePlusCircle />
+        </div>
+        <div>
+          <FaLinkedinIn />
+        </div>
+      </div>
+    </div>
+{/* Card One */}
+{/* Card One */}
+<div className='card'>
+      <img src={IMG1} />
+      <h1>Williamson</h1>
+      <p>Web Developer</p>
+      <div className='social-icons'>
+        <div>
+        <CiFacebook />
+        </div>
+        <div>
+          <AiFillTwitterCircle />
+        </div>
+        <div>
+          <BiLogoGooglePlusCircle />
+        </div>
+        <div>
+          <FaLinkedinIn />
+        </div>
+      </div>
+    </div>
+{/* Card One */}
+{/* Card One */}
+<div className='card'>
+      <img src={IMG1} />
+      <h1>Williamson</h1>
+      <p>Web Developer</p>
+      <div className='social-icons'>
+        <div>
+        <CiFacebook />
+        </div>
+        <div>
+          <AiFillTwitterCircle />
+        </div>
+        <div>
+          <BiLogoGooglePlusCircle />
+        </div>
+        <div>
+          <FaLinkedinIn />
+        </div>
+      </div>
+    </div>
+{/* Card One */}
+{/* Card One */}
+<div className='card'>
+      <img src={IMG1} />
+      <h1>Williamson</h1>
+      <p>Web Developer</p>
+      <div className='social-icons'>
+        <div>
+        <CiFacebook />
+        </div>
+        <div>
+          <AiFillTwitterCircle />
+        </div>
+        <div>
+          <BiLogoGooglePlusCircle />
+        </div>
+        <div>
+          <FaLinkedinIn />
+        </div>
+      </div>

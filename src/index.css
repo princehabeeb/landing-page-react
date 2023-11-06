@@ -12,3 +12,9 @@ body{
     justify-content: center;
     align-items: center;
 }
+
+@media screen and (max-width: 900px){
+    body{
+        height: auto;
+    }
+}
